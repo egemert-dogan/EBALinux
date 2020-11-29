@@ -19,6 +19,12 @@ Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol
 sudo apt-get install alacarte
 ```
 Alacarte Uygulamasını açınız. Eğitim bölümünü seçiniz ve "Yeni Öğe" butonuna tıklayınız.
+
 ![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/1.png)
+
 Gelen ekranı aşağıdaki gibi doldurduktan sonra "Browse" butonuna tıklayarak 
-```~/EBALinux/EBA-Linux-x64``` dizinindeki 'EBA' isimli programı seçiniz. Uygulama simgesi için ```~/EBALinux/logo.png``` dosyasını seçiniz. "Tamam" butonuna tıklayarak çıkınız. Uygulamalar Menüsünde aratarak EBA uygulamasını görebilirsiniz...
+```~/EBALinux/EBA-Linux-x64``` dizinindeki 'EBA' isimli programı seçiniz. Uygulama simgesi için ```~/EBALinux/logo.png``` dosyasını seçiniz. "Tamam" butonuna tıklayarak çıkınız.
+
+![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/2.png)
+
+Uygulamalar Menüsünde aratarak EBA uygulamasını görebilirsiniz...
