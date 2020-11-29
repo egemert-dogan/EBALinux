@@ -14,11 +14,11 @@ Kurulum oldukça basittir. Yukarıdaki "install.sh" dosyasını bilgisayarınız
   ./home/<Kullanıcı_Adınız>/İndirilenler/install.sh
  ```
 ### Uygulama Kısa Yolunun Oluşturulması
-Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte!ı indirmek için aşağıdaki komutu çalıştırınız.
+Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte'ı indirmek için aşağıdaki komutu çalıştırınız.
 ```shel
 sudo apt-get install alacarte
 ```
-Alacarte Uygulamasını açınız. Eğitim bölümünü seçiniz ve "Yeni Öğe" butonuna tıklayınız.
+Alacarte Uygulamasını(Ana Menü) açınız. Eğitim bölümünü seçiniz ve "Yeni Öğe" butonuna tıklayınız.
 
 ![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/1.png)
 
