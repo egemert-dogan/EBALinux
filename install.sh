@@ -26,7 +26,7 @@ cd EBALinux
 
 echo -e "\e[32mLogo indiriliyor...\e[39m"
 
-wget -O logo.png -P ~/EBALinux/ https://pbs.twimg.com/profile_images/1176414000399167488/Dcs55QKs_400x400.png
+wget -O logo.png -P ~/EBALinux/ https://raw.githubusercontent.com/egemertdogan/EBALinux/main/logo.png
 
 echo -e "\e[32mKullanıcı Betiği indiriliyor...\e[39m"
  
@@ -38,6 +38,6 @@ sudo npm install -g nativefier
 
 echo -e "\e[32mUygulama yükleniyor...\e[39m"
  
-nativefier "https://www.eba.gov.tr/#/anasayfa" --name EBA -i ~/EBALinux/logo.png --inject ~/EBALinux/user_Script.js
+nativefier "https://www.eba.gov.tr/#/anasayfa" --name EBALinux -i ~/EBALinux/logo.png --inject ~/EBALinux/user_Script.js
 
 echo -e "\e[32mTamamlandı!\e[39m"
