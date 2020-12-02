@@ -1,10 +1,16 @@
 # EBALinux
-
 Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı. Veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek!
 
 **NOT! HALA GELİŞTİRME AŞAMASINDADIR! KENDİ SORUMLULUĞUNUZDA KULLANIN! OLUŞABİLECEK HASARLARDAN DOLAYI SORUMLULUK KABUL ETMEYİZ!**
 
-#### Ubuntu 20.04.1 sürümünde Gnome ve Budgie masaüstü ortamlarında denenmiştir. Sorunsuz çalışmaktadır.
+## İçindekiler
+
+#### Kurulum
+#### Uygulama Kısa Yolunun Oluşturulması
+#### Canlı Derse Katılım
+
+
+
 
 ## Kurulum
 Kurulum oldukça basittir. Yukarıdaki "install.sh" dosyasını bilgisayarınıza indiriniz. Aşağıdaki komutları tek tek Uçbirim'de çalıştırınız.
