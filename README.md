@@ -9,9 +9,6 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 #### Uygulama Kısa Yolunun Oluşturulması
 #### Canlı Derse Katılım
 
-
-
-
 ## Kurulum
 Kurulum oldukça basittir. Yukarıdaki "install.sh" dosyasını bilgisayarınıza indiriniz. Aşağıdaki komutları tek tek Uçbirim'de çalıştırınız.
   ```shell
@@ -36,3 +33,10 @@ Gelen ekranı aşağıdaki gibi doldurduktan sonra "Browse" butonuna tıklayarak
 ![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/2.png)
 
 Uygulamalar Menüsünde aratarak EBA uygulamasını görebilirsiniz...
+### Canlı Derse Katılım
+Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](zoom.us/download) indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
+
+##### 1-) EBALinux uygulamasında oturum açınız
+##### 2-) Canlı derse katıl düğmesine basınız.
+##### 3-) Tarayıcınızda bir sekme açılacak, zoom programının sizi yönlendirmesini bekleyiniz.
+##### 4-) İyi dersler :)
