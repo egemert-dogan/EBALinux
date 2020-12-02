@@ -18,7 +18,7 @@ Kurulum oldukça basittir. Yukarıdaki "install.sh" dosyasını bilgisayarınız
   
   ./home/<Kullanıcı_Adınız>/İndirilenler/install.sh
  ```
-### Uygulama Kısa Yolunun Oluşturulması
+## Uygulama Kısa Yolunun Oluşturulması
 Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte'ı indirmek için aşağıdaki komutu çalıştırınız.
 ```shel
 sudo apt-get install alacarte
@@ -33,7 +33,7 @@ Gelen ekranı aşağıdaki gibi doldurduktan sonra "Browse" butonuna tıklayarak
 ![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/2.png)
 
 Uygulamalar Menüsünde aratarak EBA uygulamasını görebilirsiniz...
-### Canlı Derse Katılım
+## Canlı Derse Katılım
 Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](zoom.us/download) indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
 
 ##### 1-) EBALinux uygulamasında oturum açınız
