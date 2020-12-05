@@ -19,9 +19,13 @@ Kurulum oldukça basittir. Yukarıdaki "install.sh" dosyasını bilgisayarınız
   ./home/<Kullanıcı_Adınız>/İndirilenler/install.sh
  ```
 ## Uygulama Kısa Yolunun Oluşturulması
-Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte'ı indirmek için aşağıdaki komutu çalıştırınız.
-```shel
+Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte'ı Ubuntu'ya indirmek için aşağıdaki komutu çalıştırınız.
+```shell
 sudo apt-get install alacarte
+```
+Arch Linux için:
+```shell
+sudo pacman -S alacarte
 ```
 Alacarte Uygulamasını(Ana Menü) açınız. Eğitim bölümünü seçiniz ve "Yeni Öğe" butonuna tıklayınız.
 
