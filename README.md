@@ -15,9 +15,9 @@ Kurulum oldukça basittir. Yukarıdaki sisteminize uygun "install.sh" dosyaları
   ```shell
   cd İndirilenler
   
-  chmod +x /home/<Kullanıcı_Adınız>/İndirilenler/install_debian_veya_arch.sh
+  chmod +x ~/İndirilenler/install_debian_veya_arch.sh
   
-  ./home/<Kullanıcı_Adınız>/İndirilenler/install_debian_veya_arch.sh
+  ./~/İndirilenler/install_debian_veya_arch.sh
  ```
 ## Uygulama Kısa Yolunun Oluşturulması
 Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte'ı Ubuntu'ya indirmek için aşağıdaki komutu çalıştırınız.
