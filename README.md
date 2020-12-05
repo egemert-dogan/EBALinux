@@ -39,7 +39,7 @@ Gelen ekranı aşağıdaki gibi doldurduktan sonra "Browse" butonuna tıklayarak
 
 Uygulamalar Menüsünde aratarak EBALinux uygulamasını görebilirsiniz...
 ## Canlı Derse Katılım
-Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](zoom.us/download) indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
+Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](https://zoom.us/download) indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
 
 ##### 1-) EBALinux uygulamasında oturum açınız
 ##### 2-) Canlı derse katıl düğmesine basınız.
