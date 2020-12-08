@@ -2,7 +2,7 @@
 Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı. Veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek!
 
 **NOT! HALA GELİŞTİRME AŞAMASINDADIR! KENDİ SORUMLULUĞUNUZDA KULLANIN! OLUŞABİLECEK HASARLARDAN DOLAYI SORUMLULUK KABUL ETMEYİZ!**
-##### Ubuntu 20.04.1 Gnome, KDE ve Budgie, Arch Linux Gnome KDE ve Cinnamon'da denenmiştir. Sorunsuz bir şekilde çalışmaktadır...
+##### Ubuntu 20.04.1 Gnome, KDE ve Budgie, Arch Linux Gnome, KDE ve Cinnamon'da denenmiştir. Sorunsuz bir şekilde çalışmaktadır...
 
 ## İçindekiler
 
