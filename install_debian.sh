@@ -4,7 +4,7 @@ echo -e "\e[32mKurulum Başlıyor...\e[39m"
  
 mkdir /opt
 
-cd opt
+cd /opt
  
 echo -e "\e[32mSistem kaynaklarınız yenileniyor...\e[39m"
  
