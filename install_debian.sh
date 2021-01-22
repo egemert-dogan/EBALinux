@@ -42,6 +42,6 @@ echo -e "\e[32mUygulama yükleniyor...\e[39m"
 
 cd /opt
 
-sudo nativefier "https://www.eba.gov.tr/#/anasayfa" --name EBALinux -i /opt/EBALinux/logo.png --inject /opt/EBALinux/user_Script.js
+sudo nativefier "https://www.eba.gov.tr/#/anasayfa" --name EBALinux -i /opt/EBALinux/logo.png --inject /opt/EBALinux/userScript.js
 
 echo -e "\e[32mTamamlandı!\e[39m"
