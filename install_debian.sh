@@ -22,7 +22,7 @@ echo -e "\e[32mwget indiriliyor\e[39m"
  
 sudo apt-get install wget
  
-sudo mkdir /opt/EBAlinux
+sudo mkdir /opt/EBALinux
  
 cd /opt/EBALinux
 
