@@ -4,7 +4,6 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 ## İçindekiler
 
 #### Kurulum
-#### Uygulama Kısa Yolunun Oluşturulması
 #### Canlı Derse Katılım
 
 ## Kurulum
