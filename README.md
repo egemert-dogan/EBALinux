@@ -30,4 +30,4 @@ Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten]
 ## Birkaç Not
 ##### 1-) EBALinux şimdilik sadece Arch Linux ve Debian tabanlı Linux dağıtımları içindir. Yakın gelecekte RHEL (Red Hat Enterprise Linux) tabanlı dağıtımlar için geliştirilmesi planlanılmaktadır.
 ##### 2-) EBALinux x86_64 ve amd64 mimarilerini destekler. ARM64 (aarch64) mimarisi projeye eklenmeyecektir.
-##### 3-) Herhangi bir sorun ile karşılaşırsanız [Issue Bölümünde](https://github.com/egemertdogan/EBALinux/issues) issue açmaktan çekinmeyin. :)
+##### 3-) Herhangi bir sorun ile karşılaşırsanız [Issues](https://github.com/egemertdogan/EBALinux/issues) bölümünü kullanmaktan çekinmeyin.
