@@ -7,6 +7,7 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 ####  ➡️ [Kurulum](https://github.com/egemertdogan/EBALinux/tree/main#kurulum)
 ####  ➡️ [Canlı Derse Katılım](https://github.com/egemertdogan/EBALinux/tree/main#canl%C4%B1-derse-kat%C4%B1l%C4%B1m)
 ####  ➡️ [Birkaç Not](https://github.com/egemertdogan/EBALinux/tree/main#birka%C3%A7-not)
+####  ➡️ [Çalışma Prensibi]()
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
