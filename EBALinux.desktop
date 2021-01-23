@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=EBALinux
+Exec=/opt/EBALinux/EBALinux-linux-x64/EBALinux
+Comment=Eğitim Bilişim Ağı
+Terminal=false
+Icon=/opt/EBALinux/logo.png
+Type=Application
