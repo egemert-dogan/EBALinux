@@ -5,6 +5,7 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 
 ####  ➡️ Kurulum
 ####  ➡️ Canlı Derse Katılım
+####  ➡️ Birkaç Not
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
@@ -24,3 +25,8 @@ Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten]
 ##### 2-) Canlı derse katıl düğmesine basınız.
 ##### 3-) Tarayıcınızda bir sekme açılacak, zoom programının sizi yönlendirmesini bekleyiniz.
 ##### 4-) İyi dersler :)
+
+## Birkaç Not
+##### 1-) EBALinux şimdilik sadece Arch Linux ve Debian tabanlı Linux dağıtımları içindir. Yakın gelecekte RHEL (Red Hat Enterprise Linux) tabanlı dağıtımlar için geliştirilmesi planlanılmaktadır.
+##### 2-) EBALinux x86_64 ve amd64 mimarilerini destekler. ARM64 (aarch64) mimarisi projeye eklenmeyecektir.
+##### 3-) Herhangi bir sorun ile karşılaşırsanız [Issue Bölümünde](https://github.com/egemertdogan/EBALinux/issues) issue açmaktan çekinmeyin. :)
