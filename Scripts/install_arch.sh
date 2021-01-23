@@ -44,4 +44,6 @@ cd /opt/EBALinux
 
 sudo nativefier "https://www.eba.gov.tr/#/anasayfa" --name EBALinux -i /opt/EBALinux/logo.png --inject /opt/EBALinux/userScript.js
 
+sudo wget -P /usr/share/applications/ https://raw.githubusercontent.com/egemertdogan/EBALinux/main/EBALinux.desktop
+
 echo -e "\e[32mTamamlandı!\e[39m"
