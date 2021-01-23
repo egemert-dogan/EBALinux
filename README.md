@@ -1,8 +1,5 @@
 # EBALinux
-Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı. Veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek!
-
-###### Kendi sorumluluğunuzda kullanın.
-##### Ubuntu 20.04.1 Gnome, KDE ve Budgie, Pardus XFCE ve Gnome, Arch Linux Gnome, KDE ve Cinnamon'da denenmiştir. Sorunsuz bir şekilde çalışmaktadır...
+Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı. Veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek.
 
 ## İçindekiler
 
