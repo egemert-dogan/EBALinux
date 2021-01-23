@@ -1,4 +1,4 @@
-![Logo](https://github.com/egemertdogan/EBALinux/blob/main/logo.png)
+![EBALinux Logo](https://github.com/egemertdogan/EBALinux/blob/main/logo.png)
 # EBALinux
 Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek.
 
