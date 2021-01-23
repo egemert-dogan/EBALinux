@@ -3,8 +3,8 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 
 ## İçindekiler
 
-#### Kurulum
-#### Canlı Derse Katılım
+####  ➡️ Kurulum
+####  ➡️ Canlı Derse Katılım
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
