@@ -11,35 +11,18 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 #### Canlı Derse Katılım
 
 ## Kurulum
-Kurulum oldukça basittir. Yukarıdaki sisteminize uygun "install.sh" dosyalarından birini bilgisayarınıza indiriniz. Aşağıdaki komutları tek tek Uçbirim'de çalıştırınız.
-  ```shell
-  cd İndirilenler
-  
-  chmod +x ~/İndirilenler/install_debian_veya_arch.sh
-  
-  ./~/İndirilenler/install_debian_veya_arch.sh
- ```
-## Uygulama Kısa Yolunun Oluşturulması
-Bunun için Alacarte uygulamasını kullanacağız. Böylelikle kolayca kısayol oluşturabilirsiniz. Alacarte'ı Ubuntu'ya indirmek için aşağıdaki komutu çalıştırınız.
-```shell
-sudo apt-get install alacarte
+### Debian (Ubuntu, Linux Mint, Pardus)
+Kurulum için yukarıdaki ```.deb``` dosyasını indirip aşağıdaki komutu çalıştırınız.
 ```
-Arch Linux için:
-```shell
-sudo pacman -S alacarte
+sudo dpkg -i ebalinux*.deb
 ```
-Alacarte Uygulamasını(Ana Menü) açınız. Eğitim bölümünü seçiniz ve "Yeni Öğe" butonuna tıklayınız.
-
-![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/1.png)
-
-Gelen ekranı aşağıdaki gibi doldurduktan sonra "Browse" butonuna tıklayarak 
-```~/EBALinux/EBA-Linux-x64``` dizinindeki 'EBALinux' isimli programı seçiniz. Uygulama simgesi için ```~/EBALinux/logo.png``` dosyasını seçiniz. "Tamam" butonuna tıklayarak çıkınız.
-
-![Ekran Görüntüsü](https://raw.githubusercontent.com/egemertdogan/EBACanliDers-LINUX/main/2.png)
-
-Uygulamalar Menüsünde aratarak EBALinux uygulamasını görebilirsiniz...
+### Arch Linux (Manjaro, ArcoLinux, ArchMan)
+Kurulum için yukarıdaki ```PKGBUILD``` dosyasını indirip aşağıdaki komutu çalıştırınız.
+```
+makepkg -si
+```
 ## Canlı Derse Katılım
-Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](https://zoom.us/download) indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
+Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](https://zoom.us/download) sisteminize uygun olanı indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
 
 ##### 1-) EBALinux uygulamasında oturum açınız
 ##### 2-) Canlı derse katıl düğmesine basınız.
