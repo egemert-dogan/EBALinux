@@ -7,7 +7,7 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 ####  ➡️ [Kurulum](https://github.com/egemertdogan/EBALinux/tree/main#kurulum)
 ####  ➡️ [Canlı Derse Katılım](https://github.com/egemertdogan/EBALinux/tree/main#canl%C4%B1-derse-kat%C4%B1l%C4%B1m)
 ####  ➡️ [Birkaç Not](https://github.com/egemertdogan/EBALinux/tree/main#birka%C3%A7-not)
-####  ➡️ [Çalışma Prensibi](https://github.com/egemertdogan/EBALinux#%C3%A7al%C4%B1%C5%9Fma-prensibi)
+####  ➡️ [Nasıl Çalışır?](https://github.com/egemertdogan/EBALinux#%C3%A7al%C4%B1%C5%9Fma-prensibi)
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
@@ -33,5 +33,5 @@ Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten]
 ##### 2-) EBALinux x86_64 ve amd64 mimarilerini destekler. ARM64 (aarch64) mimarisi projeye eklenmeyecektir.
 ##### 3-) Herhangi bir sorun ile karşılaşırsanız [Issues](https://github.com/egemertdogan/EBALinux/issues) bölümünü kullanmaktan çekinmeyin.
 
-## Çalışma Prensibi
+## Nasıl Çalışır?
 ##### EBALinux, bir [nativefier](https://github.com/jiahaog/nativefier) projesidir. Electron kullanılarak tasarlanan nativefier, web uygulamalarını masaüstüne taşımanızı sağlar. Linux, macOS ve Windows'ta kullanılabilir. Bu projede nativefier'ın yanı sıra açık kaynaklı bir kullanıcı betiği kullanılmıştır. Bu betik; token ve ID'i alarak size bir Zoom toplantısı linki veriyor. Bu linki kullanarak derse giriş yapılabiliyor.
