@@ -8,7 +8,7 @@ cd /opt
  
 echo -e "\e[32mSistem kaynaklarınız yenileniyor...\e[39m"
  
-sudo apt-get update
+sudo pacman -Syyu
  
 echo -e "\e[32mnpm indiriliyor\e[39m"
  
