@@ -2,13 +2,11 @@
  
 echo -e "\e[32mKurulum Başlıyor...\e[39m"
  
-mkdir /opt
-
-cd /opt
+mkdir -p /opt && cd $_
  
 echo -e "\e[32mSistem kaynaklarınız yenileniyor...\e[39m"
  
-sudo apt-get update
+sudo pacman -Syyu
  
 echo -e "\e[32mnpm indiriliyor\e[39m"
  
