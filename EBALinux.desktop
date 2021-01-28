@@ -5,3 +5,4 @@ Comment=Eğitim Bilişim Ağı
 Terminal=false
 Icon=/opt/EBALinux/logo.png
 Type=Education
+StartupNotify=true
