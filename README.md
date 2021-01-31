@@ -12,13 +12,19 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
 Kurulum için yukarıdaki ```.deb``` dosyasını indirip aşağıdaki komutu çalıştırınız.
-```
+```shel
 sudo dpkg -i ebalinux*.deb
 ```
 ### Arch Linux (Manjaro, ArcoLinux, ArchMan)
 Kurulum için yukarıdaki ```PKGBUILD``` dosyasını indirip aşağıdaki komutu çalıştırınız.
-```
+```shell
 makepkg -si
+```
+### Red Hat Enterprise Linux (Fedora, CentOS, Oracle Linux)
+Kurulum için ```Scripts/install_rhel.sh``` dosyasını indirip aşağıdaki komutları çalıştırınız.
+```shell
+chmod +x install_rhel.sh
+bash install_rhel.sh
 ```
 ## Canlı Derse Katılım
 Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](https://zoom.us/download) sisteminize uygun olanı indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
