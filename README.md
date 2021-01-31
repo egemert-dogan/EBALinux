@@ -11,7 +11,7 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
-Kurulum için yukarıdaki `.deb` dosyasını indirip aşağıdaki komutu çalıştırınız.
+Kurulum için yukarıdaki `.deb` uzantılı dosyayı indirip aşağıdaki komutu çalıştırınız.
 ```shell
 sudo dpkg -i ebalinux*.deb
 ```
