@@ -11,17 +11,17 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
-Kurulum için yukarıdaki ```.deb``` dosyasını indirip aşağıdaki komutu çalıştırınız.
+Kurulum için yukarıdaki `.deb` dosyasını indirip aşağıdaki komutu çalıştırınız.
 ```shell
 sudo dpkg -i ebalinux*.deb
 ```
 ### Arch Linux (Manjaro, ArcoLinux, ArchMan)
-Kurulum için yukarıdaki ```PKGBUILD``` dosyasını indirip aşağıdaki komutu çalıştırınız.
+Kurulum için yukarıdaki `PKGBUILD` dosyasını indirip aşağıdaki komutu çalıştırınız.
 ```shell
 makepkg -si
 ```
 ### Red Hat Enterprise Linux (Fedora, CentOS, Oracle Linux)
-Kurulum için ```Scripts/install_rhel.sh``` dosyasını indirip aşağıdaki komutları çalıştırınız.
+Kurulum için `Scripts/install_rhel.sh` dosyasını indirip aşağıdaki komutları çalıştırınız.
 ```shell
 chmod +x install_rhel.sh
 bash install_rhel.sh
