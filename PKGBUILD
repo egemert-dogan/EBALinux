@@ -1,6 +1,6 @@
 pkgname=EBALinux
-pkgver=1.0
-pkgrel=1
+pkgver=1.1
+pkgrel=2
 pkgdesc='Eğitim Bilişim Ağı (EBA) için gayri resmi Linux uygulaması.'
 url=https://github.com/egemertdogan/EBALinux
 arch=('x86_64')
