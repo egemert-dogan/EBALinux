@@ -24,7 +24,7 @@ makepkg -si
 Kurulum için `Scripts/install_rhel.sh` dosyasını indirip aşağıdaki komutları çalıştırınız.
 ```shell
 chmod +x install_rhel.sh
-bash install_rhel.sh
+sh install_rhel.sh
 ```
 ## Canlı Derse Katılım
 Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](https://zoom.us/download) sisteminize uygun olanı indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
