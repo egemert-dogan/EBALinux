@@ -1,4 +1,4 @@
- #! /bin/sh
+#!/bin/bash
  
 echo -e "\e[32mKurulum Başlıyor...\e[39m"
  

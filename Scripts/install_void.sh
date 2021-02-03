@@ -1,8 +1,8 @@
- #! /bin/sh
+#!/bin/bash
  
 echo -e "\e[32mKurulum Başlıyor...\e[39m"
  
-mkdir -p /opt && cd $_
+mkdir -p /opt && cd /opt
 
 echo -e "\e[32mSistem kaynaklarınız yenileniyor...\e[39m"
  
@@ -20,7 +20,7 @@ echo -e "\e[32mwget indiriliyor\e[39m"
  
 sudo xbps-install wget
  
-sudo mkdir -p /opt/EBALinux && cd $_
+sudo mkdir -p /opt/EBALinux && cd /opt/EBALinux
 
 echo -e "\e[32mLogo indiriliyor...\e[39m"
 
@@ -35,6 +35,8 @@ echo -e "\e[32mUygulama hazırlanıyor...\e[39m"
 sudo npm install -g nativefier
 
 echo -e "\e[32mUygulama yükleniyor...\e[39m"
+
+cd /opt/EBALinux/
 
 sudo nativefier "https://www.eba.gov.tr/#/anasayfa" --name EBALinux -i /opt/EBALinux/logo.png --inject /opt/EBALinux/userScript.js
 
