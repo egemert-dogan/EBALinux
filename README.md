@@ -37,13 +37,13 @@ Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten]
 
 ##### 1-) EBALinux uygulamasında oturum açınız
 ##### 2-) Canlı derse katıl düğmesine basınız.
-##### 3-) Tarayıcınızda bir sekme açılacak, zoom programının sizi yönlendirmesini bekleyiniz.
+##### 3-) Tarayıcınızda bir sekme açılacak, Zoom programının sizi yönlendirmesini bekleyiniz.
 ##### 4-) İyi dersler :)
 
 ## Birkaç Not
-##### 1-) EBALinux şimdilik sadece Arch Linux ve Debian tabanlı Linux dağıtımları içindir. Yakın gelecekte RHEL (Red Hat Enterprise Linux) tabanlı dağıtımlar için geliştirilmesi planlanılmaktadır.
-##### 2-) EBALinux x86_64 ve amd64 mimarilerini destekler. ARM64 (aarch64) mimarisi projeye eklenmeyecektir.
+##### 1-) EBALinux şimdilik Arch Linux, Debian, RHEL ve Void Linux için tasarlanmıştır. Eğer farklı bir dağıtım kullanıyorsanız, [Issues](https://github.com/egemertdogan/EBALinux/issues) bölümünde çekinmeden istekte bulunabilirsiniz.
+##### 2-) EBALinux x86_64 ve amd64 mimarilerini destekler. ARM64 (aarch64) ve ARM86 (aarch32) mimarisi projeye eklenmeyecektir.
 ##### 3-) Herhangi bir sorun ile karşılaşırsanız [Issues](https://github.com/egemertdogan/EBALinux/issues) bölümünü kullanmaktan çekinmeyin.
 
 ## Nasıl Çalışır?
-##### EBALinux, bir [nativefier](https://github.com/jiahaog/nativefier) projesidir. Electron kullanılarak tasarlanan nativefier, web uygulamalarını masaüstüne taşımanızı sağlar. Linux, macOS ve Windows'ta kullanılabilir. Bu projede nativefier'ın yanı sıra açık kaynaklı bir kullanıcı betiği kullanılmıştır. Bu betik; token ve ID'i alarak size bir Zoom toplantısı linki veriyor. Bu linki kullanarak derse giriş yapılabiliyor.
+##### EBALinux, bir [Nativefier](https://github.com/jiahaog/nativefier) projesidir. Electron kullanılarak tasarlanan Nativefier, web uygulamalarını masaüstüne taşımanızı sağlar. Linux, macOS ve Windows'ta kullanılabilir. Bu projede Nativefier'ın yanı sıra açık kaynaklı bir kullanıcı betiği kullanılmıştır. Bu betik; token ve ID'yi alarak size bir Zoom toplantısı linki veriyor. Bu linki kullanarak derse giriş yapılabiliyor.
