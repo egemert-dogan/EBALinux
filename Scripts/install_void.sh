@@ -6,19 +6,19 @@ mkdir -p /opt && cd $_
 
 echo -e "\e[32mSistem kaynaklarınız yenileniyor...\e[39m"
  
-sudo pacman -Syy
+sudo xbps-install -Su
  
 echo -e "\e[32mnpm indiriliyor\e[39m"
  
-sudo pacman -S npm --needed
+sudo xbps-install nodejs
 
 echo -e "\e[32mgit indiriliyor\e[39m"
  
-sudo pacman -S git --needed
+sudo xbps-install git
 
 echo -e "\e[32mwget indiriliyor\e[39m"
  
-sudo pacman -S wget --needed
+sudo xbps-install wget
  
 sudo mkdir -p /opt/EBALinux && cd $_
 
