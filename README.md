@@ -56,4 +56,4 @@ Canlı derse katılım için `Zoom` isimli uygulama gereklidir. [Bu linkten](htt
 ##### 3-) Herhangi bir sorun ile karşılaşırsanız [Issues](https://github.com/egemertdogan/EBALinux/issues) bölümünü kullanmaktan çekinmeyin.
 
 ## Nasıl Çalışır?
-##### EBALinux, bir [Nativefier](https://github.com/jiahaog/nativefier) projesidir. Electron kullanılarak tasarlanan Nativefier, web uygulamalarını masaüstüne taşımanızı sağlar. Linux, macOS ve Windows'ta kullanılabilir. Bu projede Nativefier'ın yanı sıra açık kaynaklı bir kullanıcı betiği kullanılmıştır. Bu betik; token ve ID'yi alarak size bir Zoom toplantısı linki veriyor. Bu linki kullanarak derse giriş yapılabiliyor.
+##### EBALinux, bir [Nativefier](https://github.com/jiahaog/nativefier) projesidir. Electron kullanılarak tasarlanan Nativefier, web uygulamalarını masaüstüne taşımanızı sağlar. Linux, macOS ve Windows'ta kullanılabilir. Bu projede Nativefier'ın yanı sıra açık kaynaklı bir kullanıcı betiği kullanılmıştır. Bu betik token ve ID'yi alarak size bir Zoom toplantısı linki veriyor. Bu linki kullanarak derse giriş yapılabiliyor.
