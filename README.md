@@ -11,34 +11,44 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 
 ## Kurulum
 ### Debian (Ubuntu, Linux Mint, Pardus)
+#### Yöntem 1 (Tavsiye edilen)
+Kurulum için aşağıdaki komutu çalıştırınız.
+```
+curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_debian.sh | bash
+```
+#### Yöntem 2
 Kurulum için yukarıdaki `.deb` uzantılı dosyayı indirip aşağıdaki komutu çalıştırınız.
 ```shell
 sudo dpkg -i ebalinux*.deb
 ```
 ### Arch Linux (Manjaro, ArcoLinux, ArchMan)
+#### Yöntem 1 (Tavsiye edilen)
+Kurulum için aşağıdaki komutu çalıştırınız.
+```
+curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_arch.sh | bash
+```
+#### Yöntem 2
 Kurulum için yukarıdaki `PKGBUILD` dosyasını indirip aşağıdaki komutu çalıştırınız.
 ```shell
 makepkg -si
 ```
 ### Red Hat Enterprise Linux (Fedora, CentOS, Oracle Linux)
-Kurulum için `Scripts/install_rhel.sh` dosyasını indirip aşağıdaki komutları çalıştırınız.
-```shell
-chmod +x install_rhel.sh
-sh install_rhel.sh
+Kurulum için aşağıdaki komutu çalıştırınız.
+```
+curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_rhel.sh | bash
 ```
 ### Void Linux (Project Trident)
-Kurulum için `Scripts/install_void.sh` dosyasını indirip aşağıdaki komutları çalıştırınız.
-```shell
-chmod +x install_void.sh
-sh install_void.sh
+Kurulum için aşağıdaki komutu çalıştırınız.
+```
+curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_void.sh | bash
 ```
 ## Canlı Derse Katılım
-Canlı derse katılım için "Zoom" adlı programı kullanacağız. [Bu linkten](https://zoom.us/download) sisteminize uygun olanı indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
+Canlı derse katılım için `Zoom` isimli uygulama gereklidir. [Bu linkten](https://zoom.us/download) sisteminize uygun olanı indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
 
 ##### 1-) EBALinux uygulamasında oturum açınız
 ##### 2-) Canlı derse katıl düğmesine basınız.
 ##### 3-) Tarayıcınızda bir sekme açılacak, Zoom programının sizi yönlendirmesini bekleyiniz.
-##### 4-) İyi dersler :)
+##### 4-) İyi dersler *:)*
 
 ## Birkaç Not
 ##### 1-) EBALinux şimdilik Arch Linux, Debian, RHEL ve Void Linux için tasarlanmıştır. Eğer farklı bir dağıtım kullanıyorsanız, [Issues](https://github.com/egemertdogan/EBALinux/issues) bölümünde çekinmeden istekte bulunabilirsiniz.
