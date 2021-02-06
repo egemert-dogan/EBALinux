@@ -17,30 +17,30 @@ Kurulum için aşağıdaki komutu çalıştırınız.
 curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_debian.sh | bash
 ```
 #### Yöntem 2
-Kurulum için yukarıdaki `.deb` uzantılı dosyayı indirip aşağıdaki komutu çalıştırınız.
+Kurulum için aşağıdaki komutu çalıştırınız.
 ```shell
-sudo dpkg -i ebalinux*.deb
+curl -O https://github.com/egemertdogan/EBALinux/raw/main/ebalinux-1.1-amd64.deb && sudo dpkg -i ebalinux*.deb
 ```
 ### Arch Linux (Manjaro, ArcoLinux, ArchMan)
 #### Yöntem 1 (Tavsiye edilen)
 Kurulum için aşağıdaki komutu çalıştırınız.
 ```
-curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_arch.sh | bash
+cd /tmp && curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_arch.sh | bash
 ```
 #### Yöntem 2
 Kurulum için yukarıdaki `PKGBUILD` dosyasını indirip aşağıdaki komutu çalıştırınız.
 ```shell
-makepkg -si
+cd /tmp && curl -O https://raw.githubusercontent.com/egemertdogan/EBALinux/main/PKGBUILD && makepkg -si
 ```
 ### Red Hat Enterprise Linux (Fedora, CentOS, Oracle Linux)
 Kurulum için aşağıdaki komutu çalıştırınız.
 ```
-curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_rhel.sh | bash
+cd /tmp && curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_rhel.sh | bash
 ```
 ### Void Linux (Project Trident)
 Kurulum için aşağıdaki komutu çalıştırınız.
 ```
-curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_void.sh | bash
+cd /tmp && curl https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_void.sh | bash
 ```
 ## Canlı Derse Katılım
 Canlı derse katılım için `Zoom` isimli uygulama gereklidir. [Bu linkten](https://zoom.us/download) sisteminize uygun olanı indirebilirsiniz. Kurulumu yaptıktan sonra aşağıdaki adımları takip ediniz.
