@@ -30,7 +30,7 @@ wget -P /tmp/ https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scrip
 #### Yöntem 2
 Kurulum için yukarıdaki `PKGBUILD` dosyasını indirip aşağıdaki komutu çalıştırınız.
 ```shell
-wget -P /tmp/ https://raw.githubusercontent.com/egemertdogan/EBALinux/main/PKGBUILD && makepkg -si
+cd /tmp/ && wget https://raw.githubusercontent.com/egemertdogan/EBALinux/main/PKGBUILD && makepkg -si
 ```
 ### Red Hat Enterprise Linux (Fedora, CentOS, Oracle Linux)
 Kurulum için aşağıdaki komutu çalıştırınız.
