@@ -10,7 +10,7 @@ Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders pro
 ####  ➡️ [Nasıl Çalışır?](https://github.com/egemertdogan/EBALinux#nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r)
 
 ## Kurulum
-Kurulum için aşağıdaki komutu hangi Linux dağıtımını kullanırsanız kullanın çalıştırmanız yeterlidir. (Script dağıtımı kendi belirler)
+Kurulum için aşağıdaki komutu çalıştırmanız yeterlidir. (Script paket yönetim sistemini kendi belirleyerek, gerekli paketleri indirir.)
 ```
 wget -P /tmp/ https://raw.githubusercontent.com/egemertdogan/EBALinux/main/install.sh ; bash /tmp/install.sh
 ```
