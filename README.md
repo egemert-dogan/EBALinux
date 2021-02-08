@@ -2,7 +2,7 @@
 # EBALinux
 Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek.
 
-![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/egemertdogan/EBALinux?style=for-the-badge)
+![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/egemertdogan/EBALinux?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/egemertdogan/EBALinux?style=for-the-badge)
 
 ## İçindekiler
 
