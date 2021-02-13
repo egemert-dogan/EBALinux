@@ -1,8 +1,10 @@
 [Desktop Entry]
+Encoding=UTF-8
+Version=1.1
+Type=Application
 Name=EBALinux
 Exec=/opt/EBALinux/EBALinux-linux-x64/EBALinux
 Comment=Eğitim Bilişim Ağı
 Terminal=false
 Icon=/opt/EBALinux/logo.png
-Type=Education
 StartupNotify=true
