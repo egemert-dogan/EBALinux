@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/github/stars/egemertdogan/EBALinux">
 <img src="https://img.shields.io/github/forks/egemertdogan/EBALinux">
 <img src="https://img.shields.io/github/issues/egemertdogan/EBALinux">
-
-EBA Canlı Ders projesi için resmi olmayan Linux desteği.</p>
+</p>
+<p align="center"> EBA Canlı Ders projesi için resmi olmayan Linux desteği. </p>
 
 ## İçindekiler
 
