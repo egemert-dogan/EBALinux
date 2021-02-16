@@ -1,1 +1,1 @@
-Taşındı! (Link)[https://gitlab.com/egemertdogan/EBALinux
+Taşındı! [Link](https://gitlab.com/egemertdogan/EBALinux)
