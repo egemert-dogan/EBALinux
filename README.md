@@ -1,8 +1,11 @@
 <h1 align="center">EBALinux</h1>
 
 <p align="center">
+<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2021">
 <img alt="GitHub" src="https://img.shields.io/github/license/egemertdogan/EBALinux">
-
+<img src="https://img.shields.io/github/stars/egemertdogan/EBALinux">
+<img src="https://img.shields.io/github/forks/egemertdogan/EBALinux">
+<img src="https://img.shields.io/github/issues/egemertdogan/EBALinux">
 
 Bilindiği üzere Milli Eğitim Bakanlığı'nın yürüttüğü Canlı Ders projesi kapsamında Linux unutulmuştu. Linux kullanıcıları çeşitli zorluklarla canlı derslerine katılabiliyorlardı veya katılamıyorlardı. Bu uygulama sayesinde bu durum değişecek.</p>
 
