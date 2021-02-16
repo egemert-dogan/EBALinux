@@ -9,6 +9,10 @@
 </p>
 <p align="center"> EBA Canlı Ders projesi için resmi olmayan Linux desteği. </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/egemertdogan/EBALinux/main/logo2.png">
+</p>
+
 ## İçindekiler
 
 ####  ➜ [Kurulum](https://github.com/egemertdogan/EBALinux/tree/main#kurulum)
