@@ -23,7 +23,7 @@
 ## Kurulum
 Kurulum için aşağıdaki komutu çalıştırmanız yeterlidir. (Script paket yönetim sistemini kendi belirleyerek, gerekli paketleri indirir.)
 ```
-wget -P /tmp/ https://raw.githubusercontent.com/egemertdogan/EBALinux/main/install.sh ; bash /tmp/install.sh
+sh -c "$(wget https://raw.github.com/egemertdogan/EBALinux/main/install.sh -O -)"
 ```
 
 ## Canlı Derse Katılım
