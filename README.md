@@ -13,8 +13,6 @@
 <img src="https://raw.githubusercontent.com/egemertdogan/EBALinux/main/logo2.png">
 </p>
 
-### NOT! EBA'NIN API'NDA MEYDANA GELEN DEĞİŞİKLER NEDENİYLE ŞİMDİLİK ÇALIŞMAMAKTADIR!
-
 ## İçindekiler
 
 ####  ➜ [Kurulum](https://github.com/egemertdogan/EBALinux/tree/main#kurulum)
