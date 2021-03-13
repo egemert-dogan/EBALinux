@@ -14,6 +14,9 @@ then cd /tmp/ ; sudo wget https://raw.githubusercontent.com/egemertdogan/EBALinu
 elif [ -x "$(command -v xbps-install)" ];
 then cd /tmp/ ; sudo wget https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_void.sh ; bash install_void.sh
 
+elif [ -x "$(command -v emerge)" ];
+then cd /tmp/ ; wget https://raw.githubusercontent.com/egemertdogan/EBALinux/main/Scripts/install_gentoo.sh ; bash install_gentoo.sh
+
 else 
 	echo "Desteklenmeyen paket yönetim sistemi! Lütfen GitHub sayfasında bunu bildirin."
 
