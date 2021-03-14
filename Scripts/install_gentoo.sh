@@ -5,16 +5,16 @@ echo -e "\e[32mKurulum Başlıyor...\e[39m"
 mkdir -p /opt && cd $_
 
 echo -e "\e[32mnpm indiriliyor\e[39m"
- 
-export USE="npm ssl" && emerge nodejs
+
+export USE="npm ssl" && emerge -av nodejs
 
 echo -e "\e[32mgit indiriliyor\e[39m"
  
-export USE="curl" && emerge dev-vcs/git
+export USE="curl" && emerge -av dev-vcs/git
 
 echo -e "\e[32mwget indiriliyor\e[39m"
  
-emerge net-misc/wget
+emerge -av net-misc/wget
  
 sudo mkdir -p /opt/EBALinux && cd $_
 
