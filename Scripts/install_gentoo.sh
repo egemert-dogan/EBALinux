@@ -6,15 +6,15 @@ mkdir -p /opt && cd $_
 
 echo -e "\e[32mnpm indiriliyor\e[39m"
 
-export USE="npm ssl" && emerge -av nodejs
+export USE="$USE npm ssl" && emerge --ask net-libs/nodejs
 
 echo -e "\e[32mgit indiriliyor\e[39m"
  
-export USE="curl" && emerge -av dev-vcs/git
+export USE="$USE curl" && emerge --ask dev-vcs/git
 
 echo -e "\e[32mwget indiriliyor\e[39m"
  
-emerge -av net-misc/wget
+emerge --ask net-misc/wget
  
 sudo mkdir -p /opt/EBALinux && cd $_
 
