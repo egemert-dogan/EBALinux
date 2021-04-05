@@ -21,7 +21,7 @@
 ####  ➜ [Nasıl Çalışır?](https://github.com/egemertdogan/EBALinux#nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r)
 
 ## Kurulum
-Kurulum için aşağıdaki komutu çalıştırmanız yeterlidir. (Script paket yönetim sistemini kendi belirleyerek, gerekli paketleri indirir.)
+Kurulum için aşağıdaki komutu çalıştırmanız yeterlidir. (Betik paket yönetim sistemini kendi belirleyerek, gerekli paketleri indirir.)
 ```
 sh -c "$(wget https://raw.github.com/egemertdogan/EBALinux/main/install.sh -O -)"
 ```
