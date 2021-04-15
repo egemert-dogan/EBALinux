@@ -5,6 +5,7 @@ pkgdesc='Eğitim Bilişim Ağı (EBA) için gayri resmi Linux uygulaması.'
 url=https://github.com/egemertdogan/EBALinux
 arch=('x86_64')
 license=('MIT')
+provides=('Education')
 
 build() {
 	sudo pacman -S git wget npm --needed
