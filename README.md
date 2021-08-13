@@ -23,7 +23,7 @@
 ## Kurulum
 Kurulum için aşağıdaki komutu çalıştırmanız yeterlidir. (Betik paket yönetim sistemini kendi belirleyerek, gerekli paketleri indirir.)
 ```
-sh -c "$(wget https://raw.github.com/egemertdogan/EBALinux/main/install.sh -O -)"
+sh -c "$(wget https://raw.github.com/egemertdogan/EBALinux/main/install.sh -O)"
 ```
 
 ## Canlı Derse Katılım
